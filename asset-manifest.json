@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AppointmentsApp-ReactJS/static/css/main.3fe96e8c.chunk.css",
+    "main.js": "/AppointmentsApp-ReactJS/static/js/main.02da3505.chunk.js",
+    "main.js.map": "/AppointmentsApp-ReactJS/static/js/main.02da3505.chunk.js.map",
+    "runtime-main.js": "/AppointmentsApp-ReactJS/static/js/runtime-main.d4fd1c7c.js",
+    "runtime-main.js.map": "/AppointmentsApp-ReactJS/static/js/runtime-main.d4fd1c7c.js.map",
+    "static/js/2.62f76405.chunk.js": "/AppointmentsApp-ReactJS/static/js/2.62f76405.chunk.js",
+    "static/js/2.62f76405.chunk.js.map": "/AppointmentsApp-ReactJS/static/js/2.62f76405.chunk.js.map",
+    "index.html": "/AppointmentsApp-ReactJS/index.html",
+    "static/css/main.3fe96e8c.chunk.css.map": "/AppointmentsApp-ReactJS/static/css/main.3fe96e8c.chunk.css.map",
+    "static/js/2.62f76405.chunk.js.LICENSE.txt": "/AppointmentsApp-ReactJS/static/js/2.62f76405.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4fd1c7c.js",
+    "static/js/2.62f76405.chunk.js",
+    "static/css/main.3fe96e8c.chunk.css",
+    "static/js/main.02da3505.chunk.js"
+  ]
+}
