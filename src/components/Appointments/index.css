@@ -1,0 +1,112 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bg {
+  font-family: 'roboto';
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-image: linear-gradient(to right, #fbc7d4, #9796f0);
+}
+
+.card {
+  width: 900px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+}
+
+.top-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.img {
+  width: 400px;
+}
+
+.add-btn {
+  background-color: #8b5cf6;
+  align-self: flex-start;
+  color: white;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 14px;
+  width: 80px;
+  border: 0;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.head {
+  color: #171f46;
+  font-weight: 500;
+  padding-bottom: 20px;
+}
+
+.label {
+  color: #9897f0;
+  font-size: 14px;
+  padding: 5px;
+}
+
+.input-filed {
+  padding: 10px;
+  border: 2px solid #b5b7c4;
+  margin-bottom: 20px;
+}
+
+.line {
+  color: #b5b7c4;
+  border-width: 2px;
+  border-color: #b5b7c4;
+}
+
+.starred {
+  background-color: transparent;
+  color: #171f46;
+  border: 2px solid #8b5cf6;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.botom-sec-box1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 576px) {
+  .img {
+    display: none;
+  }
+  .bg {
+    height: auto;
+  }
+  .top-section {
+    justify-content: center;
+  }
+
+  .ul {
+    justify-content: center;
+  }
+}

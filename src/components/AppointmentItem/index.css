@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.li-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: ceneter;
+}
+
+.li {
+  width: 250px;
+  border-radius: 10px;
+  border: 2px solid #b5b7c4;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'roboto';
+}
+
+.li-haed {
+  font-size: 18px;
+  color: #171f46;
+  font-weight: bold;
+}
+
+.li-para {
+  color: #8b5cf6;
+}
+
+.li-btn {
+  background-color: transparent;
+  border: 0;
+}
+
+@media (max-width: 576px) {
+  .li {
+    width: 300px;
+  }
+}
